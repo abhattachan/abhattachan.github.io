@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyle F. Davis | Abinash Bhattachan</title>
-    <link>/authors/kyle-f.-davis/</link>
-      <atom:link href="/authors/kyle-f.-davis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://abhattachan.github.io/authors/kyle-f.-davis/</link>
+      <atom:link href="https://abhattachan.github.io/authors/kyle-f.-davis/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyle F. Davis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://abhattachan.github.io/img/icon-192.png</url>
       <title>Kyle F. Davis</title>
-      <link>/authors/kyle-f.-davis/</link>
+      <link>https://abhattachan.github.io/authors/kyle-f.-davis/</link>
     </image>
     
     <item>
       <title>A universal model for predicting human migrations under climate change - examining future sea level rise in Bangladesh</title>
-      <link>/publication/journal-article/coauthored/erl_2018/</link>
+      <link>https://abhattachan.github.io/publication/journal-article/coauthored/erl_2018/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/coauthored/erl_2018/</guid>
+      <guid>https://abhattachan.github.io/publication/journal-article/coauthored/erl_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Desertification - Drivers and feedbacks</title>
-      <link>/publication/journal-article/coauthored/awr_2013/</link>
+      <link>https://abhattachan.github.io/publication/journal-article/coauthored/awr_2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/coauthored/awr_2013/</guid>
+      <guid>https://abhattachan.github.io/publication/journal-article/coauthored/awr_2013/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan E Emanuel | Abinash Bhattachan</title>
-    <link>/authors/ryan-e-emanuel/</link>
-      <atom:link href="/authors/ryan-e-emanuel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://abhattachan.github.io/authors/ryan-e-emanuel/</link>
+      <atom:link href="https://abhattachan.github.io/authors/ryan-e-emanuel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan E Emanuel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://abhattachan.github.io/img/icon-192.png</url>
       <title>Ryan E Emanuel</title>
-      <link>/authors/ryan-e-emanuel/</link>
+      <link>https://abhattachan.github.io/authors/ryan-e-emanuel/</link>
     </image>
     
     <item>
       <title>Linking residential saltwater intrusion risk perceptions to physical exposure of climate change impacts in rural communities of North Carolina</title>
-      <link>/publication/journal-article/firstauthored/naturalhazards_2019/</link>
+      <link>https://abhattachan.github.io/publication/journal-article/firstauthored/naturalhazards_2019/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/firstauthored/naturalhazards_2019/</guid>
+      <guid>https://abhattachan.github.io/publication/journal-article/firstauthored/naturalhazards_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sea level rise impacts on rural coastal socio-ecological systems and the implications for decision making.</title>
-      <link>/publication/journal-article/firstauthored/esp_2018/</link>
+      <link>https://abhattachan.github.io/publication/journal-article/firstauthored/esp_2018/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/firstauthored/esp_2018/</guid>
+      <guid>https://abhattachan.github.io/publication/journal-article/firstauthored/esp_2018/</guid>
       <description></description>
     </item>
     

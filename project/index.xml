@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Abinash Bhattachan</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://abhattachan.github.io/project/</link>
+      <atom:link href="https://abhattachan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://abhattachan.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://abhattachan.github.io/project/</link>
     </image>
     
     <item>
       <title>Drought and Human Health</title>
-      <link>/project/internal-project2/</link>
+      <link>https://abhattachan.github.io/project/internal-project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project2/</guid>
+      <guid>https://abhattachan.github.io/project/internal-project2/</guid>
       <description>&lt;p&gt;I arrived at UCLA in late 2017 to work on a project funded by the University of California, Office of the President (UCOP) through its MRPI (Multicampus Research Programs and Initiatives) &lt;a href=&#34;https://droughtpublichealth.weebly.com&#34; target=&#34;_blank&#34;&gt;grant&lt;/a&gt;. The overall goal of the projects is to study the public health effects of the recent California drought. The transdisciplinary team comprises of members from UCLA, UC- Berkeley, UC-Merced and Scripps Institute of Oceangraphy. At UCLA, we work closely with &lt;a href=&#34;https://justinremais.weebly.com&#34; target=&#34;_blank&#34;&gt;Justin Remais&amp;rsquo;s group&lt;/a&gt; at the UC Berkeley School of Public Health. My ongoing work is focused on three fronts - evaluating the the role of climatic variability on West Nile Virus and Valley Fever incidence,
 1) Analysis of percent cover change of vegetation in California
 2) Apply a wind erosion model to simulate dust emissions from dust hotspots in the region
@@ -28,9 +28,9 @@
     
     <item>
       <title>Southern Hemisphere Dust</title>
-      <link>/project/internal-project/</link>
+      <link>https://abhattachan.github.io/project/internal-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://abhattachan.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;My &lt;a href=&#34;https://search.proquest.com/openview/a2590d9263adba49fe7a9cc9a09852cc/1?pq-origsite=gscholar&amp;amp;cbl=18750&amp;amp;diss=y&#34; target=&#34;_blank&#34;&gt;dissertation research&lt;/a&gt; (2009-2013) explored the potential of the Southern Kalahari as a future dust source. Our primary motivation was driven by earlier studies in this region by several researchers where they showed a relationship between threshold grass cover and aeolian activity in this region exists and that increased aeolian activity was observed during periods of extended drought. Similarly, in other drylands around the world, the effect of landuse change on aeolian activity is well established. Study of dust from the Southern Hemisphere sources are important because, 1) most sources of dust are found in the Northern hemisphere and, 2) the proximity of these dust sources to the Southern Ocean play an important role in ocean biogeochemistry.&lt;/p&gt;
 
 &lt;p&gt;We found that the from the interdunes within a precipitation belt receives less than 250 mm mean annual prepciation can emit dust similar to the other currently active sources in the regions such as the Makgadikgadi Pan and Etosha Pan &lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1748-9326/7/2/024001&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2012)&lt;/a&gt;. An interesting piece of the puzzle then was to determine where this emitted dust will go. We found that 26% of the trajectories (simulated with a trajectory model, HYSPLIT) reaches the Southern Ocean which is a High Nutrient Low Chlorophyll (HNLC) region where soluble iron (Fe(II)) is a limiting micronutrient. We found that sediments from the interdunes are rich in soluble iron and could play an important role in ocean biogeochemical cycles. We calculated that 0.42 Tg/yr of dust could be emitted from the region under a scenario of 100% vegetation loss &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrf.20043&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2013)&lt;/a&gt;. In addition to the environmental impacts, the reactivation of dunes also has socioeconomic impacts in the Southern Kalahari; for example, loss of palatable grass and rangeland productivity poses a serious threat to the commercial interests and people’s livelihood in the region. One of my disseration chapters focused on the resilience of the duneland vegetation in the overgrazed areas of the southern Kalahari. To this end, we used field observations and soil seed bank experiment to show that palatable perennial grass recovered in dunes after exclusion of grazers &lt;a href=&#34;https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES13-00268.1&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2014)&lt;/a&gt;. In systems where high resolution continuous data of variables undergoing state changes/regime shifts are not available,ecological indicators such as changes in percent grass cover, grass community composition, and seed bank could serve as effective early warning indicators of state shift.&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Vulnerability of coastal landscapes to SLR</title>
-      <link>/project/internal-project1/</link>
+      <link>https://abhattachan.github.io/project/internal-project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project1/</guid>
+      <guid>https://abhattachan.github.io/project/internal-project1/</guid>
       <description>&lt;p&gt;I was fortunate to work with an interdisciplinary team of reseachers from NC State University and Duke University on a NSF funded project investigating the biophysical impacts of saltwater intrusion in low-gradient coastal ecosystems. I published 3 first authored manuscripts from my 2 years (2015-2017) as a postdoctoral research associate in &lt;a href=&#34;https://waterpotential.wordpress.ncsu.edu&#34; target=&#34;_blank&#34;&gt;Ryan Emanuel&amp;rsquo;s Group&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Rural Coastal regions are distinctly vulnerable to sea level rise because of their remoteness and poverty. To better plan for future sea level changes in Albemarle Pamlico Peninsula, a rural five county region in Eastern NC, I led a review paper to assess the social and environmental impacts of sea level rise and their dynamic feedbacks &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1462901117313278?via%3Dihub⁩&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2018)&lt;/a&gt;. To account for the effect of human infrastructure on hydrological flow and saltwater intrusion, we developed a spatially explicit saltwater intrusion vulnerability index (SIVI) to compare the saltwater vulnerability with and without artificial drainages &lt;a href=&#34;https://www.elementascience.org/article/10.1525/elementa.316/&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2018)&lt;/a&gt;. Finally, I collaborated with &lt;a href=&#34;https://sites.google.com/view/matthewjurjonas/home&#34; target=&#34;_blank&#34;&gt;Matthew Jurjonas&lt;/a&gt; who was running a residential survey as part of his doctoral dissertation research. Using a subset from his results, we assessed the residents risk perceptions to sea level rise and saltwater intrusion in eastern North Carolina and its implications to adaptive capacity and decision-making &lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs11069-019-03706-0&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2019)&lt;/a&gt;.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nathan Mitchell | Abinash Bhattachan</title>
-    <link>/authors/nathan-mitchell/</link>
-      <atom:link href="/authors/nathan-mitchell/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://abhattachan.github.io/authors/nathan-mitchell/</link>
+      <atom:link href="https://abhattachan.github.io/authors/nathan-mitchell/index.xml" rel="self" type="application/rss+xml" />
     <description>Nathan Mitchell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://abhattachan.github.io/img/icon-192.png</url>
       <title>Nathan Mitchell</title>
-      <link>/authors/nathan-mitchell/</link>
+      <link>https://abhattachan.github.io/authors/nathan-mitchell/</link>
     </image>
     
     <item>
       <title>Dryland Ecohydrology - Research perspectives</title>
-      <link>/publication/journal-article/coauthored/aar_2009/</link>
+      <link>https://abhattachan.github.io/publication/journal-article/coauthored/aar_2009/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/coauthored/aar_2009/</guid>
+      <guid>https://abhattachan.github.io/publication/journal-article/coauthored/aar_2009/</guid>
       <description></description>
     </item>
     
