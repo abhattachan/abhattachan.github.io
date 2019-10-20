@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ted M. Zobeck | Abinash Bhattachan</title>
+    <link>/authors/ted-m.-zobeck/</link>
+      <atom:link href="/authors/ted-m.-zobeck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ted M. Zobeck</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ted M. Zobeck</title>
+      <link>/authors/ted-m.-zobeck/</link>
+    </image>
+    
+    <item>
+      <title>Total vertical sediment flux and PM10 emissions from disturbed Chihuahuan Desert surfaces</title>
+      <link>/publication/journal-article/coauthored/geoderma_2017/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/coauthored/geoderma_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Southern Kalahari, A potential new dust source in the southern hemisphere?</title>
+      <link>/publication/journal-article/firstauthored/erl_2012/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/firstauthored/erl_2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

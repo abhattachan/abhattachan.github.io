@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samir Suweis | Abinash Bhattachan</title>
+    <link>/authors/samir-suweis/</link>
+      <atom:link href="/authors/samir-suweis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samir Suweis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Samir Suweis</title>
+      <link>/authors/samir-suweis/</link>
+    </image>
+    
+    <item>
+      <title>A universal model for predicting human migrations under climate change - examining future sea level rise in Bangladesh</title>
+      <link>/publication/journal-article/coauthored/erl_2018/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/coauthored/erl_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

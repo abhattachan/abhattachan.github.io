@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/africanjecology_2019/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gregory-s.-okin/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kebonye-dintwe/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mokganedi-tatlhego/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicholas-p.-webb/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paolo-dodorico/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/geohealth/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dennis-p-lettenmaier/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gregory-s-okin/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/solomon-vimal/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhang-junzhe/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/erin-l-seekamp/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lindsey-s-smart/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/naturalhazards_2019/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-d-jurjonas/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-j-taillie/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/priscilla-r-morris/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ryan-e-emanuel/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-moody/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/georgina-m-sanchez/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/esp_2018/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-a.-ury/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-s.-bernhardt/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/elementa_2018/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/justin-p.-wright/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marcelo-ardon/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-g.-stillwagon/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ryan-e.-emanuel/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/steven-m.-anderson/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/todd-k-bendor/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/enrique-r.-vivoni/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/junzhe-zhang/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/osvaldo-e.-sala/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/bioscience_2018/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/erl_2018/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kyle-f.-davis/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/samir-suweis/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-c.-baddock/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-s.-van-pelt/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sujith-ravi/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ted-m.-zobeck/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/geoderma_2017/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/isabel-reche/</loc>
+    <lastmod>2016-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/jgr_2016/</loc>
+    <lastmod>2016-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/amato-t.-evan/</loc>
+    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/grl_2015/</loc>
+    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kailiang-yu/</loc>
+    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/ecosphere_2015/</loc>
+    <lastmod>2015-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/frances-c.-odonnell/</loc>
+    <lastmod>2015-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kelly-k.-caylor/</loc>
+    <lastmod>2015-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/grl_2015/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kathy-j.-licht/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lixin-wang/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/molly-f.-miller/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/jae_2015/</loc>
+    <lastmod>2015-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alina-handorean/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/natalie-mladenov/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/plant_soil_-2014/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tanja-hrast/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/scientificreports_2014/</loc>
+    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/africanjecology_2014/</loc>
+    <lastmod>2014-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thoralf-meyer/</loc>
+    <lastmod>2014-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/ecosphere_2014/</loc>
+    <lastmod>2014-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/scott-l.-collins/</loc>
+    <lastmod>2014-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/jgr_2013/</loc>
+    <lastmod>2013-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/christiane-w.-runyan/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/awr_2013/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/philtrans_2012/</loc>
+    <lastmod>2012-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicolas-cassar/</loc>
+    <lastmod>2012-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/erl_2012/</loc>
+    <lastmod>2012-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/danielle-o.-perrot/</loc>
+    <lastmod>2012-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/firstauthored/plosone_2012/</loc>
+    <lastmod>2012-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/susan-ringrose/</loc>
+    <lastmod>2012-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ashton-earler/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/diana-van-vleet/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/aar_2009/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/elizabeth-r.-whitman/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-j.-coloso/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/janet-miller/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-mobley/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kate-abshire/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nathan-mitchell/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/patrick-barrett/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/todd-m.-scanlon/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project2/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project1/</loc>
+  </url>
+  
+</urlset>

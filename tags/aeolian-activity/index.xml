@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aeolian Activity | Abinash Bhattachan</title>
+    <link>/tags/aeolian-activity/</link>
+      <atom:link href="/tags/aeolian-activity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aeolian Activity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aeolian Activity</title>
+      <link>/tags/aeolian-activity/</link>
+    </image>
+    
+    <item>
+      <title>Future Sources of Dust</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;My dissertation chapters explored the potential of the Southern Kalahari as a future dust source. The primary motivation was driven by the earlier studies in this region by David Thomas, Giles Wiggs and Joanna Bullard and their collaborators (PAPERS) where they showed that increased aeolian activity was observed during periods of extended drought and relationship between threshold grass cover and aeolian activity in this region. In dryland around the world, the effect of landuse change on aeolian activity is well established.&lt;/p&gt;
+
+&lt;p&gt;We found that the from the interdunes the dust generating potential of the region that receives less than 250 mm mean annual prepciation is quite similar to the other dust sources in the regions such as the Makgadikgadi Pan and Etosha Pan (Bhattachan et al., 2012). An interesting piece of the puzzle was to determine where this emitted dust will go and what was in the dust. We found that X% of the trajectories (simulated with a trajectory model, HYSPLIT) reaches the Southern Ocean which is a High Nutrient Low Chlorophyll (HNLC) region where soluble iron (Fe(II)) is a limiting micronutrient. We found the the sediments from the interdunes are rich in soluble iron and could play a role in ocean biogeochemical cycles. We calculated that 1.2 Tg of dust could be emitted from the region in the future under a scenario of 100% vegetation loss (Bhattachan et al., 2013)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

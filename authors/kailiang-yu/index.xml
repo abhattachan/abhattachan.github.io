@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kailiang Yu | Abinash Bhattachan</title>
+    <link>/authors/kailiang-yu/</link>
+      <atom:link href="/authors/kailiang-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kailiang Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kailiang Yu</title>
+      <link>/authors/kailiang-yu/</link>
+    </image>
+    
+    <item>
+      <title>Dust-rainfall feedbacks in West-African Sahel</title>
+      <link>/publication/journal-article/coauthored/grl_2015/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/coauthored/grl_2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

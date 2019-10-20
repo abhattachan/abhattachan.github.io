@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott L. Collins | Abinash Bhattachan</title>
+    <link>/authors/scott-l.-collins/</link>
+      <atom:link href="/authors/scott-l.-collins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott L. Collins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Scott L. Collins</title>
+      <link>/authors/scott-l.-collins/</link>
+    </image>
+    
+    <item>
+      <title>Resilience and recovery potential of duneland vegetation in the southern Kalahari</title>
+      <link>/publication/journal-article/firstauthored/ecosphere_2014/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/firstauthored/ecosphere_2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
