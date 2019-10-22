@@ -902,9 +902,11 @@ Figure 1: A fancy pie chart.
       <guid>https://abhattachan.github.io/project/internal-project2/</guid>
       <description>&lt;p&gt;I arrived at UCLA in late 2017 to work on a project funded by the University of California, Office of the President (UCOP) through its MRPI (Multicampus Research Programs and Initiatives) &lt;a href=&#34;https://droughtpublichealth.weebly.com&#34; target=&#34;_blank&#34;&gt;grant&lt;/a&gt;. The overall goal of the project is to study the public health effects of the recent California drought. The transdisciplinary team comprises of members from UCLA, UC- Berkeley, UC-Merced and Scripps Institute of Oceangraphy. At UCLA, we work closely with &lt;a href=&#34;https://justinremais.weebly.com&#34; target=&#34;_blank&#34;&gt;Justin Remais&amp;rsquo;s group&lt;/a&gt; at the UC Berkeley School of Public Health. My ongoing work is focused on three fronts - evaluating the the role of climatic variability on West Nile Virus and Valley Fever incidence,&lt;/p&gt;
 
-&lt;p&gt;1) Analysis of percent cover change of vegetation in California
-2) Apply a wind erosion model to simulate dust emissions from dust hotspots in the region
-3) Assessment of the role of urban outdoor irrigation in vector abundance in the Los Angeles Basin&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Analysis of percent cover change of vegetation in California,&lt;/li&gt;
+&lt;li&gt;Apply a wind erosion model to simulate dust emissions from dust hotspots in the region,&lt;/li&gt;
+&lt;li&gt;Assessment of the role of urban outdoor irrigation in vector abundance in the Los Angeles Basin.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;In an early study, I analyzed the role of wind and dust in vehicular accidents in three desert counties in California &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GH000212&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2019)&lt;/a&gt;. This study integrates remote sensing (MODIS Deep Blue dataset) with geospatial and statistical analysis.&lt;/p&gt;
 </description>
