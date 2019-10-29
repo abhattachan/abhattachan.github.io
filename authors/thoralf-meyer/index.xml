@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoralf Meyer | Abinash Bhattachan</title>
-    <link>https://abhattachan.github.io/authors/thoralf-meyer/</link>
-      <atom:link href="https://abhattachan.github.io/authors/thoralf-meyer/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/thoralf-meyer/</link>
+      <atom:link href="/authors/thoralf-meyer/index.xml" rel="self" type="application/rss+xml" />
     <description>Thoralf Meyer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abhattachan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Thoralf Meyer</title>
-      <link>https://abhattachan.github.io/authors/thoralf-meyer/</link>
+      <link>/authors/thoralf-meyer/</link>
     </image>
     
     <item>
       <title>An analysis of structure - Biomass structure relationships for characteristic species of the western Kalahari, Botswana</title>
-      <link>https://abhattachan.github.io/publication/journal-article/coauthored/africanjecology_2014/</link>
+      <link>/publication/journal-article/coauthored/africanjecology_2014/</link>
       <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/publication/journal-article/coauthored/africanjecology_2014/</guid>
+      <guid>/publication/journal-article/coauthored/africanjecology_2014/</guid>
       <description></description>
     </item>
     

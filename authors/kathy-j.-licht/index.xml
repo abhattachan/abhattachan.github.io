@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kathy J. Licht | Abinash Bhattachan</title>
-    <link>https://abhattachan.github.io/authors/kathy-j.-licht/</link>
-      <atom:link href="https://abhattachan.github.io/authors/kathy-j.-licht/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/kathy-j.-licht/</link>
+      <atom:link href="/authors/kathy-j.-licht/index.xml" rel="self" type="application/rss+xml" />
     <description>Kathy J. Licht</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Feb 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abhattachan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Kathy J. Licht</title>
-      <link>https://abhattachan.github.io/authors/kathy-j.-licht/</link>
+      <link>/authors/kathy-j.-licht/</link>
     </image>
     
     <item>
       <title>Antarctica’s Dry Valleys, a potential source of iron to the Southern Ocean</title>
-      <link>https://abhattachan.github.io/publication/journal-article/firstauthored/grl_2015/</link>
+      <link>/publication/journal-article/firstauthored/grl_2015/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/publication/journal-article/firstauthored/grl_2015/</guid>
+      <guid>/publication/journal-article/firstauthored/grl_2015/</guid>
       <description></description>
     </item>
     

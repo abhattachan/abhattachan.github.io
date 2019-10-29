@@ -2,510 +2,510 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Abinash Bhattachan</title>
-    <link>https://abhattachan.github.io/authors/</link>
-      <atom:link href="https://abhattachan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abhattachan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://abhattachan.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://abhattachan.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a researcher in the &lt;a href=&#34;https://geog.ucla.edu&#34; target=&#34;_blank&#34;&gt;Department of Geography&lt;/a&gt; at UCLA. I work with Professors &lt;a href=&#34;https://scholar.google.com/citations?user=ZN9V9b0AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Greg Okin&lt;/a&gt; and &lt;a href=&#34;http://www.hydro.ucla.edu&#34; target=&#34;_blank&#34;&gt;Dennis Lettenmaier&lt;/a&gt;. Together we are working on a project focused on studying the effects of climate variability on spread of infectious diseases. Please visit my research page for past and current research summaries.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Gregory S. Okin</title>
-      <link>https://abhattachan.github.io/authors/gregory-s.-okin/</link>
+      <link>/authors/gregory-s.-okin/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/gregory-s.-okin/</guid>
+      <guid>/authors/gregory-s.-okin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kebonye Dintwe</title>
-      <link>https://abhattachan.github.io/authors/kebonye-dintwe/</link>
+      <link>/authors/kebonye-dintwe/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/kebonye-dintwe/</guid>
+      <guid>/authors/kebonye-dintwe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mokganedi Tatlhego</title>
-      <link>https://abhattachan.github.io/authors/mokganedi-tatlhego/</link>
+      <link>/authors/mokganedi-tatlhego/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/mokganedi-tatlhego/</guid>
+      <guid>/authors/mokganedi-tatlhego/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicholas P. Webb</title>
-      <link>https://abhattachan.github.io/authors/nicholas-p.-webb/</link>
+      <link>/authors/nicholas-p.-webb/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/nicholas-p.-webb/</guid>
+      <guid>/authors/nicholas-p.-webb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paolo D&#39;Odorico</title>
-      <link>https://abhattachan.github.io/authors/paolo-dodorico/</link>
+      <link>/authors/paolo-dodorico/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/paolo-dodorico/</guid>
+      <guid>/authors/paolo-dodorico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dennis P Lettenmaier</title>
-      <link>https://abhattachan.github.io/authors/dennis-p-lettenmaier/</link>
+      <link>/authors/dennis-p-lettenmaier/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/dennis-p-lettenmaier/</guid>
+      <guid>/authors/dennis-p-lettenmaier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gregory S Okin</title>
-      <link>https://abhattachan.github.io/authors/gregory-s-okin/</link>
+      <link>/authors/gregory-s-okin/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/gregory-s-okin/</guid>
+      <guid>/authors/gregory-s-okin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solomon Vimal</title>
-      <link>https://abhattachan.github.io/authors/solomon-vimal/</link>
+      <link>/authors/solomon-vimal/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/solomon-vimal/</guid>
+      <guid>/authors/solomon-vimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhang Junzhe</title>
-      <link>https://abhattachan.github.io/authors/zhang-junzhe/</link>
+      <link>/authors/zhang-junzhe/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/zhang-junzhe/</guid>
+      <guid>/authors/zhang-junzhe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erin L Seekamp</title>
-      <link>https://abhattachan.github.io/authors/erin-l-seekamp/</link>
+      <link>/authors/erin-l-seekamp/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/erin-l-seekamp/</guid>
+      <guid>/authors/erin-l-seekamp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lindsey S Smart</title>
-      <link>https://abhattachan.github.io/authors/lindsey-s-smart/</link>
+      <link>/authors/lindsey-s-smart/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/lindsey-s-smart/</guid>
+      <guid>/authors/lindsey-s-smart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matthew D Jurjonas</title>
-      <link>https://abhattachan.github.io/authors/matthew-d-jurjonas/</link>
+      <link>/authors/matthew-d-jurjonas/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/matthew-d-jurjonas/</guid>
+      <guid>/authors/matthew-d-jurjonas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul J Taillie</title>
-      <link>https://abhattachan.github.io/authors/paul-j-taillie/</link>
+      <link>/authors/paul-j-taillie/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/paul-j-taillie/</guid>
+      <guid>/authors/paul-j-taillie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Priscilla R Morris</title>
-      <link>https://abhattachan.github.io/authors/priscilla-r-morris/</link>
+      <link>/authors/priscilla-r-morris/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/priscilla-r-morris/</guid>
+      <guid>/authors/priscilla-r-morris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ryan E Emanuel</title>
-      <link>https://abhattachan.github.io/authors/ryan-e-emanuel/</link>
+      <link>/authors/ryan-e-emanuel/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/ryan-e-emanuel/</guid>
+      <guid>/authors/ryan-e-emanuel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alex Moody</title>
-      <link>https://abhattachan.github.io/authors/alex-moody/</link>
+      <link>/authors/alex-moody/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/alex-moody/</guid>
+      <guid>/authors/alex-moody/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Georgina M Sanchez</title>
-      <link>https://abhattachan.github.io/authors/georgina-m-sanchez/</link>
+      <link>/authors/georgina-m-sanchez/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/georgina-m-sanchez/</guid>
+      <guid>/authors/georgina-m-sanchez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emily A. Ury</title>
-      <link>https://abhattachan.github.io/authors/emily-a.-ury/</link>
+      <link>/authors/emily-a.-ury/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/emily-a.-ury/</guid>
+      <guid>/authors/emily-a.-ury/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emily S. Bernhardt</title>
-      <link>https://abhattachan.github.io/authors/emily-s.-bernhardt/</link>
+      <link>/authors/emily-s.-bernhardt/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/emily-s.-bernhardt/</guid>
+      <guid>/authors/emily-s.-bernhardt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Justin P. Wright</title>
-      <link>https://abhattachan.github.io/authors/justin-p.-wright/</link>
+      <link>/authors/justin-p.-wright/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/justin-p.-wright/</guid>
+      <guid>/authors/justin-p.-wright/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marcelo Ardon</title>
-      <link>https://abhattachan.github.io/authors/marcelo-ardon/</link>
+      <link>/authors/marcelo-ardon/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/marcelo-ardon/</guid>
+      <guid>/authors/marcelo-ardon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matthew G. Stillwagon</title>
-      <link>https://abhattachan.github.io/authors/matthew-g.-stillwagon/</link>
+      <link>/authors/matthew-g.-stillwagon/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/matthew-g.-stillwagon/</guid>
+      <guid>/authors/matthew-g.-stillwagon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ryan E. Emanuel</title>
-      <link>https://abhattachan.github.io/authors/ryan-e.-emanuel/</link>
+      <link>/authors/ryan-e.-emanuel/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/ryan-e.-emanuel/</guid>
+      <guid>/authors/ryan-e.-emanuel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steven M. Anderson</title>
-      <link>https://abhattachan.github.io/authors/steven-m.-anderson/</link>
+      <link>/authors/steven-m.-anderson/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/steven-m.-anderson/</guid>
+      <guid>/authors/steven-m.-anderson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Todd K Bendor</title>
-      <link>https://abhattachan.github.io/authors/todd-k-bendor/</link>
+      <link>/authors/todd-k-bendor/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/todd-k-bendor/</guid>
+      <guid>/authors/todd-k-bendor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enrique R. Vivoni</title>
-      <link>https://abhattachan.github.io/authors/enrique-r.-vivoni/</link>
+      <link>/authors/enrique-r.-vivoni/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/enrique-r.-vivoni/</guid>
+      <guid>/authors/enrique-r.-vivoni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Junzhe Zhang</title>
-      <link>https://abhattachan.github.io/authors/junzhe-zhang/</link>
+      <link>/authors/junzhe-zhang/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/junzhe-zhang/</guid>
+      <guid>/authors/junzhe-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Osvaldo E. Sala</title>
-      <link>https://abhattachan.github.io/authors/osvaldo-e.-sala/</link>
+      <link>/authors/osvaldo-e.-sala/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/osvaldo-e.-sala/</guid>
+      <guid>/authors/osvaldo-e.-sala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle F. Davis</title>
-      <link>https://abhattachan.github.io/authors/kyle-f.-davis/</link>
+      <link>/authors/kyle-f.-davis/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/kyle-f.-davis/</guid>
+      <guid>/authors/kyle-f.-davis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samir Suweis</title>
-      <link>https://abhattachan.github.io/authors/samir-suweis/</link>
+      <link>/authors/samir-suweis/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/samir-suweis/</guid>
+      <guid>/authors/samir-suweis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matthew C. Baddock</title>
-      <link>https://abhattachan.github.io/authors/matthew-c.-baddock/</link>
+      <link>/authors/matthew-c.-baddock/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/matthew-c.-baddock/</guid>
+      <guid>/authors/matthew-c.-baddock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert S. Van Pelt</title>
-      <link>https://abhattachan.github.io/authors/robert-s.-van-pelt/</link>
+      <link>/authors/robert-s.-van-pelt/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/robert-s.-van-pelt/</guid>
+      <guid>/authors/robert-s.-van-pelt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sujith Ravi</title>
-      <link>https://abhattachan.github.io/authors/sujith-ravi/</link>
+      <link>/authors/sujith-ravi/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/sujith-ravi/</guid>
+      <guid>/authors/sujith-ravi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ted M. Zobeck</title>
-      <link>https://abhattachan.github.io/authors/ted-m.-zobeck/</link>
+      <link>/authors/ted-m.-zobeck/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/ted-m.-zobeck/</guid>
+      <guid>/authors/ted-m.-zobeck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Isabel Reche</title>
-      <link>https://abhattachan.github.io/authors/isabel-reche/</link>
+      <link>/authors/isabel-reche/</link>
       <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/isabel-reche/</guid>
+      <guid>/authors/isabel-reche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amato T. Evan</title>
-      <link>https://abhattachan.github.io/authors/amato-t.-evan/</link>
+      <link>/authors/amato-t.-evan/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/amato-t.-evan/</guid>
+      <guid>/authors/amato-t.-evan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kailiang Yu</title>
-      <link>https://abhattachan.github.io/authors/kailiang-yu/</link>
+      <link>/authors/kailiang-yu/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/kailiang-yu/</guid>
+      <guid>/authors/kailiang-yu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frances C. O&#39;Donnell</title>
-      <link>https://abhattachan.github.io/authors/frances-c.-odonnell/</link>
+      <link>/authors/frances-c.-odonnell/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/frances-c.-odonnell/</guid>
+      <guid>/authors/frances-c.-odonnell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kelly K. Caylor</title>
-      <link>https://abhattachan.github.io/authors/kelly-k.-caylor/</link>
+      <link>/authors/kelly-k.-caylor/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/kelly-k.-caylor/</guid>
+      <guid>/authors/kelly-k.-caylor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kathy J. Licht</title>
-      <link>https://abhattachan.github.io/authors/kathy-j.-licht/</link>
+      <link>/authors/kathy-j.-licht/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/kathy-j.-licht/</guid>
+      <guid>/authors/kathy-j.-licht/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lixin Wang</title>
-      <link>https://abhattachan.github.io/authors/lixin-wang/</link>
+      <link>/authors/lixin-wang/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/lixin-wang/</guid>
+      <guid>/authors/lixin-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molly F. Miller</title>
-      <link>https://abhattachan.github.io/authors/molly-f.-miller/</link>
+      <link>/authors/molly-f.-miller/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/molly-f.-miller/</guid>
+      <guid>/authors/molly-f.-miller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alina Handorean</title>
-      <link>https://abhattachan.github.io/authors/alina-handorean/</link>
+      <link>/authors/alina-handorean/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/alina-handorean/</guid>
+      <guid>/authors/alina-handorean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natalie Mladenov</title>
-      <link>https://abhattachan.github.io/authors/natalie-mladenov/</link>
+      <link>/authors/natalie-mladenov/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/natalie-mladenov/</guid>
+      <guid>/authors/natalie-mladenov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tanja Hrast</title>
-      <link>https://abhattachan.github.io/authors/tanja-hrast/</link>
+      <link>/authors/tanja-hrast/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/tanja-hrast/</guid>
+      <guid>/authors/tanja-hrast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoralf Meyer</title>
-      <link>https://abhattachan.github.io/authors/thoralf-meyer/</link>
+      <link>/authors/thoralf-meyer/</link>
       <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/thoralf-meyer/</guid>
+      <guid>/authors/thoralf-meyer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scott L. Collins</title>
-      <link>https://abhattachan.github.io/authors/scott-l.-collins/</link>
+      <link>/authors/scott-l.-collins/</link>
       <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/scott-l.-collins/</guid>
+      <guid>/authors/scott-l.-collins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christiane W. Runyan</title>
-      <link>https://abhattachan.github.io/authors/christiane-w.-runyan/</link>
+      <link>/authors/christiane-w.-runyan/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/christiane-w.-runyan/</guid>
+      <guid>/authors/christiane-w.-runyan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicolas Cassar</title>
-      <link>https://abhattachan.github.io/authors/nicolas-cassar/</link>
+      <link>/authors/nicolas-cassar/</link>
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/nicolas-cassar/</guid>
+      <guid>/authors/nicolas-cassar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Danielle O. Perrot</title>
-      <link>https://abhattachan.github.io/authors/danielle-o.-perrot/</link>
+      <link>/authors/danielle-o.-perrot/</link>
       <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/danielle-o.-perrot/</guid>
+      <guid>/authors/danielle-o.-perrot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susan Ringrose</title>
-      <link>https://abhattachan.github.io/authors/susan-ringrose/</link>
+      <link>/authors/susan-ringrose/</link>
       <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/susan-ringrose/</guid>
+      <guid>/authors/susan-ringrose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ashton Earler</title>
-      <link>https://abhattachan.github.io/authors/ashton-earler/</link>
+      <link>/authors/ashton-earler/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/ashton-earler/</guid>
+      <guid>/authors/ashton-earler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diana Van Vleet</title>
-      <link>https://abhattachan.github.io/authors/diana-van-vleet/</link>
+      <link>/authors/diana-van-vleet/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/diana-van-vleet/</guid>
+      <guid>/authors/diana-van-vleet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elizabeth R. Whitman</title>
-      <link>https://abhattachan.github.io/authors/elizabeth-r.-whitman/</link>
+      <link>/authors/elizabeth-r.-whitman/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/elizabeth-r.-whitman/</guid>
+      <guid>/authors/elizabeth-r.-whitman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>James J. Coloso</title>
-      <link>https://abhattachan.github.io/authors/james-j.-coloso/</link>
+      <link>/authors/james-j.-coloso/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/james-j.-coloso/</guid>
+      <guid>/authors/james-j.-coloso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Janet Miller</title>
-      <link>https://abhattachan.github.io/authors/janet-miller/</link>
+      <link>/authors/janet-miller/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/janet-miller/</guid>
+      <guid>/authors/janet-miller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Mobley</title>
-      <link>https://abhattachan.github.io/authors/john-mobley/</link>
+      <link>/authors/john-mobley/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/john-mobley/</guid>
+      <guid>/authors/john-mobley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kate Abshire</title>
-      <link>https://abhattachan.github.io/authors/kate-abshire/</link>
+      <link>/authors/kate-abshire/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/kate-abshire/</guid>
+      <guid>/authors/kate-abshire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nathan Mitchell</title>
-      <link>https://abhattachan.github.io/authors/nathan-mitchell/</link>
+      <link>/authors/nathan-mitchell/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/nathan-mitchell/</guid>
+      <guid>/authors/nathan-mitchell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patrick Barrett</title>
-      <link>https://abhattachan.github.io/authors/patrick-barrett/</link>
+      <link>/authors/patrick-barrett/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/patrick-barrett/</guid>
+      <guid>/authors/patrick-barrett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Todd M. Scanlon</title>
-      <link>https://abhattachan.github.io/authors/todd-m.-scanlon/</link>
+      <link>/authors/todd-m.-scanlon/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/authors/todd-m.-scanlon/</guid>
+      <guid>/authors/todd-m.-scanlon/</guid>
       <description></description>
     </item>
     

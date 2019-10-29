@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven M. Anderson | Abinash Bhattachan</title>
-    <link>https://abhattachan.github.io/authors/steven-m.-anderson/</link>
-      <atom:link href="https://abhattachan.github.io/authors/steven-m.-anderson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/steven-m.-anderson/</link>
+      <atom:link href="/authors/steven-m.-anderson/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven M. Anderson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abhattachan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Steven M. Anderson</title>
-      <link>https://abhattachan.github.io/authors/steven-m.-anderson/</link>
+      <link>/authors/steven-m.-anderson/</link>
     </image>
     
     <item>
       <title>Evaluating the effects of climate and land-use changes on vulnerability of coastal landscapes to saltwater intrusion</title>
-      <link>https://abhattachan.github.io/publication/journal-article/firstauthored/elementa_2018/</link>
+      <link>/publication/journal-article/firstauthored/elementa_2018/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/publication/journal-article/firstauthored/elementa_2018/</guid>
+      <guid>/publication/journal-article/firstauthored/elementa_2018/</guid>
       <description></description>
     </item>
     

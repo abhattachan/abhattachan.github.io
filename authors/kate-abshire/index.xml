@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kate Abshire | Abinash Bhattachan</title>
-    <link>https://abhattachan.github.io/authors/kate-abshire/</link>
-      <atom:link href="https://abhattachan.github.io/authors/kate-abshire/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/kate-abshire/</link>
+      <atom:link href="/authors/kate-abshire/index.xml" rel="self" type="application/rss+xml" />
     <description>Kate Abshire</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abhattachan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Kate Abshire</title>
-      <link>https://abhattachan.github.io/authors/kate-abshire/</link>
+      <link>/authors/kate-abshire/</link>
     </image>
     
     <item>
       <title>Dryland Ecohydrology - Research perspectives</title>
-      <link>https://abhattachan.github.io/publication/journal-article/coauthored/aar_2009/</link>
+      <link>/publication/journal-article/coauthored/aar_2009/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/publication/journal-article/coauthored/aar_2009/</guid>
+      <guid>/publication/journal-article/coauthored/aar_2009/</guid>
       <description></description>
     </item>
     

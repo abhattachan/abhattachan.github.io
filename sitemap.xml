@@ -3,568 +3,578 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://abhattachan.github.io/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/africanjecology_2019/</loc>
+    <loc>/publication/journal-article/coauthored/africanjecology_2019/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/gregory-s.-okin/</loc>
+    <loc>/authors/gregory-s.-okin/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/kebonye-dintwe/</loc>
+    <loc>/authors/kebonye-dintwe/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/mokganedi-tatlhego/</loc>
+    <loc>/authors/mokganedi-tatlhego/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/nicholas-p.-webb/</loc>
+    <loc>/authors/nicholas-p.-webb/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/paolo-dodorico/</loc>
+    <loc>/authors/paolo-dodorico/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/tags/source-themes/</loc>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/geohealth/</loc>
+    <loc>/publication/journal-article/firstauthored/geohealth/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/dennis-p-lettenmaier/</loc>
+    <loc>/authors/dennis-p-lettenmaier/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/gregory-s-okin/</loc>
+    <loc>/authors/gregory-s-okin/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/solomon-vimal/</loc>
+    <loc>/authors/solomon-vimal/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/zhang-junzhe/</loc>
+    <loc>/authors/zhang-junzhe/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/erin-l-seekamp/</loc>
+    <loc>/authors/erin-l-seekamp/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/lindsey-s-smart/</loc>
+    <loc>/authors/lindsey-s-smart/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/naturalhazards_2019/</loc>
+    <loc>/publication/journal-article/firstauthored/naturalhazards_2019/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/matthew-d-jurjonas/</loc>
+    <loc>/authors/matthew-d-jurjonas/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/paul-j-taillie/</loc>
+    <loc>/authors/paul-j-taillie/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/priscilla-r-morris/</loc>
+    <loc>/authors/priscilla-r-morris/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/ryan-e-emanuel/</loc>
+    <loc>/authors/ryan-e-emanuel/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/post/writing-technical-content/</loc>
+    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/post/jupyter/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/alex-moody/</loc>
+    <loc>/authors/alex-moody/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/georgina-m-sanchez/</loc>
+    <loc>/authors/georgina-m-sanchez/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/esp_2018/</loc>
+    <loc>/publication/journal-article/firstauthored/esp_2018/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/emily-a.-ury/</loc>
+    <loc>/authors/emily-a.-ury/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/emily-s.-bernhardt/</loc>
+    <loc>/authors/emily-s.-bernhardt/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/elementa_2018/</loc>
+    <loc>/publication/journal-article/firstauthored/elementa_2018/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/justin-p.-wright/</loc>
+    <loc>/authors/justin-p.-wright/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/marcelo-ardon/</loc>
+    <loc>/authors/marcelo-ardon/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/matthew-g.-stillwagon/</loc>
+    <loc>/authors/matthew-g.-stillwagon/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/ryan-e.-emanuel/</loc>
+    <loc>/authors/ryan-e.-emanuel/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/steven-m.-anderson/</loc>
+    <loc>/authors/steven-m.-anderson/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/todd-k-bendor/</loc>
+    <loc>/authors/todd-k-bendor/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/enrique-r.-vivoni/</loc>
+    <loc>/authors/enrique-r.-vivoni/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/junzhe-zhang/</loc>
+    <loc>/authors/junzhe-zhang/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/osvaldo-e.-sala/</loc>
+    <loc>/authors/osvaldo-e.-sala/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/bioscience_2018/</loc>
+    <loc>/publication/journal-article/coauthored/bioscience_2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/erl_2018/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/coauthored/erl_2018/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/kyle-f.-davis/</loc>
+    <loc>/authors/kyle-f.-davis/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/samir-suweis/</loc>
+    <loc>/authors/samir-suweis/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/matthew-c.-baddock/</loc>
+    <loc>/authors/matthew-c.-baddock/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/robert-s.-van-pelt/</loc>
+    <loc>/authors/robert-s.-van-pelt/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/sujith-ravi/</loc>
+    <loc>/authors/sujith-ravi/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/ted-m.-zobeck/</loc>
+    <loc>/authors/ted-m.-zobeck/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/geoderma_2017/</loc>
+    <loc>/publication/journal-article/coauthored/geoderma_2017/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/isabel-reche/</loc>
+    <loc>/authors/isabel-reche/</loc>
     <lastmod>2016-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/jgr_2016/</loc>
+    <loc>/publication/journal-article/firstauthored/jgr_2016/</loc>
     <lastmod>2016-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/tags/academic/</loc>
+    <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/categories/demo/</loc>
+    <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/amato-t.-evan/</loc>
+    <loc>/authors/amato-t.-evan/</loc>
     <lastmod>2015-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/grl_2015/</loc>
+    <loc>/publication/journal-article/coauthored/grl_2015/</loc>
     <lastmod>2015-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/kailiang-yu/</loc>
+    <loc>/authors/kailiang-yu/</loc>
     <lastmod>2015-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/ecosphere_2015/</loc>
+    <loc>/publication/journal-article/coauthored/ecosphere_2015/</loc>
     <lastmod>2015-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/frances-c.-odonnell/</loc>
+    <loc>/authors/frances-c.-odonnell/</loc>
     <lastmod>2015-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/kelly-k.-caylor/</loc>
+    <loc>/authors/kelly-k.-caylor/</loc>
     <lastmod>2015-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/grl_2015/</loc>
+    <loc>/publication/journal-article/firstauthored/grl_2015/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/kathy-j.-licht/</loc>
+    <loc>/authors/kathy-j.-licht/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/lixin-wang/</loc>
+    <loc>/authors/lixin-wang/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/molly-f.-miller/</loc>
+    <loc>/authors/molly-f.-miller/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/jae_2015/</loc>
+    <loc>/publication/journal-article/firstauthored/jae_2015/</loc>
     <lastmod>2015-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/alina-handorean/</loc>
+    <loc>/authors/alina-handorean/</loc>
     <lastmod>2014-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/natalie-mladenov/</loc>
+    <loc>/authors/natalie-mladenov/</loc>
     <lastmod>2014-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/plant_soil_-2014/</loc>
+    <loc>/publication/journal-article/coauthored/plant_soil_-2014/</loc>
     <lastmod>2014-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/tanja-hrast/</loc>
+    <loc>/authors/tanja-hrast/</loc>
     <lastmod>2014-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/scientificreports_2014/</loc>
+    <loc>/publication/journal-article/firstauthored/scientificreports_2014/</loc>
     <lastmod>2014-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/africanjecology_2014/</loc>
+    <loc>/publication/journal-article/coauthored/africanjecology_2014/</loc>
     <lastmod>2014-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/thoralf-meyer/</loc>
+    <loc>/authors/thoralf-meyer/</loc>
     <lastmod>2014-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/ecosphere_2014/</loc>
+    <loc>/publication/journal-article/firstauthored/ecosphere_2014/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/scott-l.-collins/</loc>
+    <loc>/authors/scott-l.-collins/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/jgr_2013/</loc>
+    <loc>/publication/journal-article/firstauthored/jgr_2013/</loc>
     <lastmod>2013-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/christiane-w.-runyan/</loc>
+    <loc>/authors/christiane-w.-runyan/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/awr_2013/</loc>
+    <loc>/publication/journal-article/coauthored/awr_2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/philtrans_2012/</loc>
+    <loc>/publication/journal-article/coauthored/philtrans_2012/</loc>
     <lastmod>2012-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/nicolas-cassar/</loc>
+    <loc>/authors/nicolas-cassar/</loc>
     <lastmod>2012-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/erl_2012/</loc>
+    <loc>/publication/journal-article/firstauthored/erl_2012/</loc>
     <lastmod>2012-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/danielle-o.-perrot/</loc>
+    <loc>/authors/danielle-o.-perrot/</loc>
     <lastmod>2012-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/firstauthored/plosone_2012/</loc>
+    <loc>/publication/journal-article/firstauthored/plosone_2012/</loc>
     <lastmod>2012-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/susan-ringrose/</loc>
+    <loc>/authors/susan-ringrose/</loc>
     <lastmod>2012-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/ashton-earler/</loc>
+    <loc>/authors/ashton-earler/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/diana-van-vleet/</loc>
+    <loc>/authors/diana-van-vleet/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/publication/journal-article/coauthored/aar_2009/</loc>
+    <loc>/publication/journal-article/coauthored/aar_2009/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/elizabeth-r.-whitman/</loc>
+    <loc>/authors/elizabeth-r.-whitman/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/james-j.-coloso/</loc>
+    <loc>/authors/james-j.-coloso/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/janet-miller/</loc>
+    <loc>/authors/janet-miller/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/john-mobley/</loc>
+    <loc>/authors/john-mobley/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/kate-abshire/</loc>
+    <loc>/authors/kate-abshire/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/nathan-mitchell/</loc>
+    <loc>/authors/nathan-mitchell/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/patrick-barrett/</loc>
+    <loc>/authors/patrick-barrett/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/authors/todd-m.-scanlon/</loc>
+    <loc>/authors/todd-m.-scanlon/</loc>
     <lastmod>2009-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/courses/</loc>
+    <loc>/courses/</loc>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/project/internal-project2/</loc>
+    <loc>/project/internal-project2/</loc>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/project/</loc>
+    <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
   </url>
   
   <url>
-    <loc>https://abhattachan.github.io/project/internal-project1/</loc>
+    <loc>/project/internal-project1/</loc>
   </url>
   
 </urlset>

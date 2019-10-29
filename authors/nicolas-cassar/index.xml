@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicolas Cassar | Abinash Bhattachan</title>
-    <link>https://abhattachan.github.io/authors/nicolas-cassar/</link>
-      <atom:link href="https://abhattachan.github.io/authors/nicolas-cassar/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/nicolas-cassar/</link>
+      <atom:link href="/authors/nicolas-cassar/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicolas Cassar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abhattachan.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Nicolas Cassar</title>
-      <link>https://abhattachan.github.io/authors/nicolas-cassar/</link>
+      <link>/authors/nicolas-cassar/</link>
     </image>
     
     <item>
       <title>The Southern Kalahari, A potential new dust source in the southern hemisphere?</title>
-      <link>https://abhattachan.github.io/publication/journal-article/firstauthored/erl_2012/</link>
+      <link>/publication/journal-article/firstauthored/erl_2012/</link>
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://abhattachan.github.io/publication/journal-article/firstauthored/erl_2012/</guid>
+      <guid>/publication/journal-article/firstauthored/erl_2012/</guid>
       <description></description>
     </item>
     
