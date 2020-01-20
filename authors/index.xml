@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a researcher in the &lt;a href=&#34;https://geog.ucla.edu&#34; target=&#34;_blank&#34;&gt;Department of Geography&lt;/a&gt; at UCLA. I work with Professors &lt;a href=&#34;https://scholar.google.com/citations?user=ZN9V9b0AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Greg Okin&lt;/a&gt; and &lt;a href=&#34;http://www.hydro.ucla.edu&#34; target=&#34;_blank&#34;&gt;Dennis Lettenmaier&lt;/a&gt;. Together we are working on a project focused on studying the effects of climate variability on infectious diseases (West Nile Virus and Valley Fever) in California. Please visit my research page to learn about my current and past research projects.&lt;/p&gt;
 </description>
@@ -24,8 +24,24 @@
     <item>
       <title>Gregory S. Okin</title>
       <link>/authors/gregory-s.-okin/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/gregory-s.-okin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mokganedi Tatlhego</title>
+      <link>/authors/mokganedi-tatlhego/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/mokganedi-tatlhego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo D&#39;Odorico</title>
+      <link>/authors/paolo-dodorico/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/paolo-dodorico/</guid>
       <description></description>
     </item>
     
@@ -38,26 +54,10 @@
     </item>
     
     <item>
-      <title>Paolo D&#39;Odorico</title>
-      <link>/authors/paolo-dodorico/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/paolo-dodorico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kebonye Dintwe</title>
       <link>/authors/kebonye-dintwe/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/kebonye-dintwe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mokganedi Tatlhego</title>
-      <link>/authors/mokganedi-tatlhego/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/mokganedi-tatlhego/</guid>
       <description></description>
     </item>
     
