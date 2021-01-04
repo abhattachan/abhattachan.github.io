@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Abinash Bhattachan</title>
+    <title>Authors | Climate Health Interactions Lab</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,12 +13,51 @@
     </image>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a researcher in the &lt;a href=&#34;https://geog.ucla.edu&#34; target=&#34;_blank&#34;&gt;Department of Geography&lt;/a&gt; at UCLA. I work with Professors &lt;a href=&#34;https://scholar.google.com/citations?user=ZN9V9b0AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Greg Okin&lt;/a&gt; and &lt;a href=&#34;http://www.hydro.ucla.edu&#34; target=&#34;_blank&#34;&gt;Dennis Lettenmaier&lt;/a&gt;. Together we are working on a project focused on studying the effects of climate variability on infectious diseases (West Nile Virus and Valley Fever) in California. Please visit my research page to learn about my current and past research projects.&lt;/p&gt;
-</description>
+      <title>Abinash Bhattachan</title>
+      <link>/authors/abinash-bhattachan/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/abinash-bhattachan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amanda M. Irish</title>
+      <link>/authors/amanda-m.-irish/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/amanda-m.-irish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dennis P. Lettenmaier</title>
+      <link>/authors/dennis-p.-lettenmaier/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dennis-p.-lettenmaier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin V. Remais</title>
+      <link>/authors/justin-v.-remais/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/justin-v.-remais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas K. Skaff</title>
+      <link>/authors/nicholas-k.-skaff/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/nicholas-k.-skaff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solomon Vimal</title>
+      <link>/authors/solomon-vimal/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/solomon-vimal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -86,14 +125,6 @@
     </item>
     
     <item>
-      <title>Solomon Vimal</title>
-      <link>/authors/solomon-vimal/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/solomon-vimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zhang Junzhe</title>
       <link>/authors/zhang-junzhe/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
@@ -147,6 +178,19 @@
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ryan-e-emanuel/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;The Climate Health Interactions Lab (CHIL) at &lt;a href=&#34;https://www.csueastbay.edu&#34; target=&#34;_blank&#34;&gt;Cal State East Bay&lt;/a&gt; in the &lt;a href=&#34;https://www.csueastbay.edu/earth/&#34; target=&#34;_blank&#34;&gt;Department of Earth and Environmental Sciences&lt;/a&gt; is led by Dr. Abinash Bhattachan.&lt;/p&gt;
+
+&lt;p&gt;Please visit our research page to learn about our work. We currently have opportunities for motivated undergraduate and graduate students in our research group. More information about the department&amp;rsquo;s MS program is available &lt;a href=&#34;https://www.csueastbay.edu/earth/graduate-program/index.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Before joining CSUEB, I was a researcher in the &lt;a href=&#34;https://geog.ucla.edu&#34; target=&#34;_blank&#34;&gt;Department of Geography&lt;/a&gt; at UCLA (2017-2020). I worked with Professors &lt;a href=&#34;https://scholar.google.com/citations?user=ZN9V9b0AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Greg Okin&lt;/a&gt; and &lt;a href=&#34;http://www.hydro.ucla.edu&#34; target=&#34;_blank&#34;&gt;Dennis Lettenmaier&lt;/a&gt; on a project focused on studying the effects of climate variability on infectious diseases (West Nile Virus and Valley Fever) in California.&lt;/p&gt;
+</description>
     </item>
     
     <item>

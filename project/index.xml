@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Abinash Bhattachan</title>
+    <title>Projects | Climate Health Interactions Lab</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
@@ -22,10 +22,12 @@
 &lt;ol&gt;
 &lt;li&gt;Analysis of vegetation cover change in California using remote sensing,&lt;/li&gt;
 &lt;li&gt;Apply a wind erosion model to simulate dust emissions from dust hotspots in the region,&lt;/li&gt;
-&lt;li&gt;Assessment of the role of urban outdoor irrigation in vector abundance in the Los Angeles Basin.&lt;/li&gt;
+&lt;li&gt;Assessment of the role of urban outdoor irrigation in vector (mosquito) abundance in the Los Angeles Basin.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;In an early study, I analyzed the role of wind and dust in vehicular accidents in three desert counties in California &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GH000212&#34; target=&#34;_blank&#34;&gt;(Bhattachan et al., 2019)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We just published a paper in ES&amp;amp;T [(Bhattachan et al., accepted)], examining the role of mandatory outdoor residential irrigation during 2015 (admist the 2012-2012 drought) on vector abundance in two sub-regions in Los Angeles and Orange Counties. We employed a counterfactual scenario to predict mosquito abundance in which drought occurred but no water use restrictions were implemented. Our results show that water use restrictions (voluntary and mandatory) reduced the outdoor water use in both study sub-regions and mandatory water use restrictions led to substantial reduction in mosquito abundance.&lt;/p&gt;
 </description>
     </item>
     

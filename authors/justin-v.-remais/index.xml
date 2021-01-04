@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin V. Remais | Climate Health Interactions Lab</title>
+    <link>/authors/justin-v.-remais/</link>
+      <atom:link href="/authors/justin-v.-remais/index.xml" rel="self" type="application/rss+xml" />
+    <description>Justin V. Remais</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Justin V. Remais</title>
+      <link>/authors/justin-v.-remais/</link>
+    </image>
+    
+    <item>
+      <title>Outdoor residential water use restrictions during recent drought suppressed disease vector abundance in Southern California</title>
+      <link>/publication/journal-article/firstauthored/est_2020/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/firstauthored/est_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
